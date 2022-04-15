@@ -2,3 +2,5 @@ github.com/Jeryhardianto/go-say-hello v0.0.0-20220415134925-32b1a1a43198 h1:ZVc8
 github.com/Jeryhardianto/go-say-hello v0.0.0-20220415134925-32b1a1a43198/go.mod h1:Ij43W4TsYpNIT7vD+Fg/pifmK41hryycROS9pjccrjw=
 github.com/Jeryhardianto/go-say-hello v1.5.0 h1:TwETNx8IGFVmmh+zCoHmlzQM2LBveuQvcppRw1UYeEI=
 github.com/Jeryhardianto/go-say-hello v1.5.0/go.mod h1:Ij43W4TsYpNIT7vD+Fg/pifmK41hryycROS9pjccrjw=
+github.com/Jeryhardianto/go-say-hello/v2 v2.0.0 h1:N36fBvb69Z5bDxTsIZMnFS5GZc46h9hn4yJapVyMh2k=
+github.com/Jeryhardianto/go-say-hello/v2 v2.0.0/go.mod h1:kZkG1gubeAcV42Y5nPNX7cKYvC96tXhEgTS5mZJKYQo=

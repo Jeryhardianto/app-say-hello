@@ -18,6 +18,15 @@
 > go run main.go
 ```
 
+### Major Upgrade 
+```
+> perubahan code yang kita buat menjadi versi baru
+> push ulang code tersebut
+> push tag baru ke github
+> pada go.mod, hapus versi lama
+> go get github.com/Jeryhardianto/go-say-hello/v2
+```
+
 ### Membaut Base Project dengan Module
 ```
 > go mod init github.com/Jeryhardianto/go-say-hello
